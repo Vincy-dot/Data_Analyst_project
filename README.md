@@ -33,11 +33,11 @@ Your written report should include written text summaries and graphics of the fo
    * **Email + Call:** Generates significantly higher individual revenue per customer compared to single-channel methods, though requiring higher time investment.
    * **Email:** Produces consistent, scalable revenue.
    * **Call:** Yields lower average revenue per conversion and exhibits lower operational leverage.
-<img width="500" height="400" alt="boxplot_total revenue" src="https://github.com/user-attachments/assets/0ef9f870-6cca-4051-a5c0-b52104f3d377" />
+<img width="500" height="400" alt="boxplot_total revenue" src="https://github.com/user-attachments/assets/edbead1c-ade9-4789-a487-8467a005eb38" />
 
-<img width="500" height="400" alt="spread of revenue by method" src="https://github.com/user-attachments/assets/abb775ad-14cc-4283-bf24-1109df585c39" />
+<img width="500" height="400" alt="spread of revenue by method" src="https://github.com/user-attachments/assets/70a626de-72a2-4ea9-ba70-d39a6818696f" />
 
-<img width="600" height="500" alt="trend_new" src="https://github.com/user-attachments/assets/3c96985b-934d-4924-a88b-3b10d474ead7" />
+<img width="600" height="500" alt="trend by week" src="https://github.com/user-attachments/assets/eb2a5eac-845e-478f-9ca7-03e3b255df91" />
 
 ---
 
